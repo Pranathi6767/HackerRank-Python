@@ -4,6 +4,6 @@ I am no expert just an early bird here.I will try to make clear explainations. I
 Beginner in open source. And trying things out.
 # I am currently working on this Repo.
 # Do press that star if you found this Repo helpful.
-# Sharind is Caring :)
+# Sharing is Caring :)
 #HackerRank
 #Competetive Coding
